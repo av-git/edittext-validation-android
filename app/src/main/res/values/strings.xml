@@ -1,3 +1,11 @@
 <resources>
+
     <string name="app_name">EditText Validation</string>
+
+    <string name="age">Idade</string>
+    <string name="city">Cidade</string>
+    <string name="name">Nome</string>
+    <string name="required_name_message">O nome é obrigatório.</string>
+    <string name="save">Salvar</string>
+
 </resources>
